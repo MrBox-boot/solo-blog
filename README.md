@@ -1,4 +1,4 @@
-<p align="center"><img alt="MrBox-boot" src="http://moco.imooc.com/favicon.ico"></p><h2 align="center">
+<p align="center"><img alt="MrBox-boot" src="https://tankryze.github.io/theme/favicon.ico"></p><h2 align="center">
 MrBox-boot
 </h2>
 
@@ -10,7 +10,7 @@ MrBox-boot
 
 ### 最新
 
-* [世界，你好！](http://www.doos.store/hello-solo)
+* [博客搭建正式完工](https://www.doos.store/articles/2019/08/29/1567017473316.html)
 
 
 
