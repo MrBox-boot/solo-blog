@@ -10,10 +10,8 @@ MrBox-boot
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.doos.store/my-github-repos)
 * [世上最简单的Docker安装+使用](https://www.doos.store/docker)
 * [关于](https://www.doos.store/about)
-* [博客搭建正式完工](https://www.doos.store/articles/2019/08/29/1567017473316.html)
 
 
 
